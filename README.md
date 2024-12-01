@@ -15,5 +15,5 @@
 
 ## Screenshots
 
-![App Screenshot](主界面.png)  
+![App Screenshot](主界面.png/200x400)  
 *示例：应用主界面*
