@@ -1,2 +1,2 @@
-# APP
+# GlobalWallet
 For Final Report
