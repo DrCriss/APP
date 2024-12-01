@@ -15,5 +15,5 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/800x400)  
+![App Screenshot](主界面.png)  
 *示例：应用主界面*
