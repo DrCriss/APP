@@ -1,2 +1,20 @@
-# GlobalWallet
-For Final Report
+# Global Wallet
+
+**Global Wallet** 是一个现代化、用户友好的全球数字钱包解决方案，旨在提供安全、高效的跨境支付与资产管理服务。
+
+---
+
+## Features
+
+- **多货币支持**：支持全球多种货币的存储和转换。
+- **快速转账**：提供点对点的即时支付功能。
+- **高度安全**：采用先进的加密技术，保护用户的资金和隐私。
+- **用户友好**：简洁易用的界面设计，适合不同文化背景的用户。
+- **跨平台兼容**：支持 Android、iOS，以及 Web 应用。
+
+---
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/800x400)  
+*示例：应用主界面*
