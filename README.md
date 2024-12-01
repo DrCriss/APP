@@ -18,4 +18,3 @@
 ### 主界面截图
 <img src="主界面.png" alt="App Screenshot" width="200">
 
-*示例：应用主界面*
